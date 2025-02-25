@@ -16,17 +16,22 @@ public class SeleniumTest {
 	@Test
 	public void elementsUi()
 	{
-		System.out.println("elementsUi");	
+		System.out.println("elementsUi1");	
 	}
 	@Test
 	public void elementsU1i()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("elementfdsUi1");	
 	}
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("elementfdsUi1");	
+	}
+	@Test
+	public void elementsU1ssi1()
+	{
+		System.out.println("elementfdsUi1");	
 	}
 	
 	

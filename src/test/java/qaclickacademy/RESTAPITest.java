@@ -16,26 +16,27 @@ public class RESTAPITest {
 		System.out.println("postJira4");
 		System.out.println("postJira5");
 		System.out.println("postJira6");
-		System.out.println("postJira7");
-		
-		
-		
-		
-		
-		
+		System.out.println("postJira7");	
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
-		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter:C");
 		
 		
 	}
 	@Test
 	public void deleteTwitter12()
 	{
-		System.out.println("deleteTwddtter");
+		System.out.println("deleteTwddtter:X");
+		
+		
+	}
+	@Test
+	public void deleteTwitter132()
+	{
+		System.out.println("deleteTwddtter:F");
 		
 		
 	}
