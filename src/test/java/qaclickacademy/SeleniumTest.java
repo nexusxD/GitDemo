@@ -33,6 +33,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementfdsUi1");	
 	}
+	@Test
+	public void elementsU1ssi1_()
+	{
+		System.out.println("elementfdsUi1.-.");	
+	}
 	
 	
 }
