@@ -1,5 +1,5 @@
 package qaclickacademy;
 
-public class demo {
+public class demo2 {
 
 }
