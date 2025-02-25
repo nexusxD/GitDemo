@@ -10,13 +10,13 @@ public class RESTAPITest {
 		System.out.println("postJira1");
 		System.out.println("postJira2");
 		System.out.println("postJira3");
-		//feere
-		//ffgf
-		//fgf
-		System.out.println("postJiraa4");
-		System.out.println("postJiraa5");
-		System.out.println("postJiraa6");
-		System.out.println("postJiraa7");
+		//feeress
+		//ffgfggf
+		//fgf:D:D:D
+		System.out.println("postJira4");
+		System.out.println("postJira5");
+		System.out.println("postJira6");
+		System.out.println("postJira7");
 		
 		
 		
