@@ -8,15 +8,15 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
-		System.out.println("postJira2");
-		System.out.println("postJira3");
+		System.out.println("postJiraa2");
+		System.out.println("postJiraa3");
 		//feere
 		//ffgf
 		//fgf
-		System.out.println("postJira4");
-		System.out.println("postJira5");
-		System.out.println("postJira6");
-		System.out.println("postJira7");
+		System.out.println("postJiraaa4");
+		System.out.println("postJiraaa5");
+		System.out.println("postJiraaa6");
+		System.out.println("postJiraaa7");
 		
 		
 		
